@@ -4,7 +4,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-- ✨ Estou trabalhando como Cientista de dados
+- ✨ Estou trabalhando como Engenheira de dados
 - 📚 Estudando Python, SQL, Algoritmos
 
 
