@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Isabella Simões
+# 👩🏻‍💻 Isabella Simoes
 
 **`Engenheira de Dados`**
 
